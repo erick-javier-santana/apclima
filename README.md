@@ -1,6 +1,6 @@
 WeatherApp 🌤️
 
-WeatherApp es una aplicación sencilla que te permite consultar el clima actual de cualquier ciudad en el mundo. Con ella, puedes obtener información como temperatura, humedad, velocidad del viento y una breve descripción del clima, todo en tiempo real.
+AppClima es una aplicación sencilla que te permite consultar el clima actual de cualquier ciudad en el mundo. Con ella, puedes obtener información como temperatura, humedad, velocidad del viento y una breve descripción del clima, todo en tiempo real.
 
 Características
 
